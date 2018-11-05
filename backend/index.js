@@ -1,5 +1,6 @@
 const Dragon = require('./dragon.js');
 
+
 const fooey = new Dragon({ 
     birthdate: new Date(), 
     nickname: 'fooey'
